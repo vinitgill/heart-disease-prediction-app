@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+streamlit
+pickle5; python_version < '3.8'
